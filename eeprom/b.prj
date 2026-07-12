@@ -8,7 +8,7 @@ C=
 D=6/22/2024
 Files=1
 F1=main.c
-OpenedFiles=2
+OpenedFiles=1
 OF1=main.c
 Active1=1
 DebugOutputListFilesDirectory=Debug\List
@@ -27,7 +27,7 @@ Active0=0
 EditorPanel0=0
 PageIndex0=0
 EditorPanel1=0
-TimeStamp1=1490448028
+TimeStamp1=1534762231
 PageIndex1=1
 OF2=C:\cvavr\inc\eeprom.h
 Active2=0
@@ -406,13 +406,13 @@ Row=0
 Column=0
 ScrollPosX=0
 ScrollPosY=0
-TimeStamp=1490448073
+TimeStamp=1557601628
 [Bookmarks2]
-TimeStamp=1490448028
-Row=141
-Column=38
+TimeStamp=1534762231
+Row=0
+Column=0
 ScrollPosX=0
-ScrollPosY=131
+ScrollPosY=72
 BK0=-1
 BK1=-1
 BK2=-1
@@ -483,7 +483,7 @@ Files=3
 F1=C:\cvavr\inc\mega32.h
 F2=C:\cvavr\inc\mega32_bits.h
 F3=C:\cvavr\inc\eeprom.h
-[FoldedCode2]
-Blocks=0
 [FoldedCode3]
+Blocks=0
+[FoldedCode2]
 Blocks=0
